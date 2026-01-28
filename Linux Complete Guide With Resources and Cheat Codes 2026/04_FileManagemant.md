@@ -23,4 +23,7 @@
 18. **`vi file.txt`** – Opens a powerful text editor.
 19. **`echo 'Hello' > file.txt`** – Writes text to a file, overwriting existing content.
 20. **`echo 'Hello' >> file.txt`** – Appends text to a file without overwriting.
+21. **`touch file.txt`** - Create a empty file without content
+22.  **`touch file1.txt file2.txt file3.txt file4.txt`** - Create a multiple files without content
+
 
